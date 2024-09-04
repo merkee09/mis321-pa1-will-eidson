@@ -1,0 +1,74 @@
+h1   {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+#banner { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    background-color: #c31212; 
+    width: 1900px; 
+  
+}
+
+#banner-content { 
+    width: 1850px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    border: 1px solid #000000;
+}
+
+#main-content { 
+    padding-top: 200px;
+ }
+
+#addButton  {
+
+    padding-top: 90px;
+    position: absolute; 
+    margin-left: 0px;
+    left: 0; 
+
+
+}
+
+#favoriteButton  {
+
+    padding-top: 90px;
+    position: absolute; 
+    margin-left: 0px;
+    left: 633px; 
+
+
+}
+
+#deleteButton  {
+
+    padding-top: 90px;
+    position: absolute; 
+    margin-left: 0px;
+    left: 1266px; 
+
+
+}
+button {
+
+    width: 633px;
+    height: 50px;
+
+}
+
+
+table, th, td {
+    border: 1px solid #000000;
+    text-align: center;
+    
+}
+
+
+table  {
+ width: 1600px;
+ margin: auto;
+
+}
